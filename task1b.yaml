@@ -234,7 +234,7 @@ defaults:
 
       validation_set:
         enable: true
-        validation_amount: 0.3
+        validation_amount: 0 # 0.3
         balancing_mode: identifier_two_level_hierarchy
         seed: 0
 
